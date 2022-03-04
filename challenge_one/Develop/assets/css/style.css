@@ -1,3 +1,4 @@
+/* body */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,7 +7,10 @@
 
 body {
     background-color: #d9dcd6;
+    font-size 14px;
 }
+
+/* header */
 
 .header {
     padding: 20px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* hero */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,11 +75,15 @@ p {
     margin-left: 25px;
 }
 
+/* content */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +144,8 @@ p {
     max-width: 150px;
 }
 
+/* content styling */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +199,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer */
 
 .footer {
     padding: 30px;
