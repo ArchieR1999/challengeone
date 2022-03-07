@@ -1,3 +1,11 @@
-# This is my challenge folder for GitHub and for working too. All my work will be posted to GitHub from here.
+# Code Refactor Starter Code
 
-The file which is under review is called: "challenge_one" and it contains all the information. 
+# Description
+This project allowed one to observe a codebase whose accessibility standards were followed and optimized esepcially for search engines.
+When the source code, structure of the HTML, title, image elements and heading attributes were viewed, then semantic elements were found which followed a logical structure, with all alt and heading attributes falling in sequential order. The link to the website is https://archier1999.github.io/challengew/ and everything seems to be in working order. 
+
+# Installation and Usage
+There is no installation required for this project, everything can be found on the aforementioned link. 
+
+
+
