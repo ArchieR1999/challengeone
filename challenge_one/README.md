@@ -20,7 +20,7 @@ THEN I find a concise, descriptive title
 
 # Description
 This project allowed one to observe a codebase whose accessibility standards were followed and optimized esepcially for search engines.
-When the source code, structure of the HTML, title, image elements and heading attributes were viewed, then semantic elements were found which followed a logical structure, with all alt and heading attributes falling in sequential order.
+When the source code, structure of the HTML, title, image elements and heading attributes were viewed, then semantic elements were found which followed a logical structure, with all alt and heading attributes falling in sequential order. The link to the website is 
 
 # Analysis 
 -All of the links funtion
