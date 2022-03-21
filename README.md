@@ -6,10 +6,10 @@ When the source code, structure of the HTML, title, image elements and heading a
 
 ## Table of Contents
 
--[Go to Heading section] (#-description)
--[Go to Heading section] (#-table-of-contents)
--[Go to Heading section] (#-installation-and-usage)
--[Go to Heading section] (#-snapshot-of-finished-product)
+-Description
+-Table of contents
+-Installation and Usage
+-Snapshot of finished product
 
 ## Installation and Usage
 There is no installation required for this project, everything can be found on the aforementioned link. 
